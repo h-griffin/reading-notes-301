@@ -6,7 +6,7 @@ place to keep reading notes for Code 301
 # table of contents
 [read-01](reading-notes-301/read-01.md)
 [read-02](reading-notes-301/read-02.md)
-[read-03](reading-notes-301/)
+[read-03](reading-notes-301/read-03.md)
 [read-04](reading-notes-301/)
 [read-05](reading-notes-301/)
 [read-06](reading-notes-301/)
@@ -26,3 +26,12 @@ place to keep reading notes for Code 301
 
 #### read-02
 - https://www.codefellows.org/blog/6-reasons-for-pair-programming/
+
+#### read-03
+- https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2
+
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+- https://flexboxfroggy.com/
+
+- https://github.com/janl/mustache.js

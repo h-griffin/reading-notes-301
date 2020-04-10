@@ -7,8 +7,8 @@ place to keep reading notes for Code 301
 [read-01](reading-notes-301/read-01.md)
 [read-02](reading-notes-301/read-02.md)
 [read-03](reading-notes-301/read-03.md)
-[read-04](reading-notes-301/)
-[read-05](reading-notes-301/)
+[read-04](reading-notes-301/read-04.md)
+[read-05](reading-notes-301/read-05.md)
 [read-06](reading-notes-301/)
 [read-07](reading-notes-301/)
 

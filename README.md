@@ -35,3 +35,21 @@ place to keep reading notes for Code 301
 - https://flexboxfroggy.com/
 
 - https://github.com/janl/mustache.js
+
+#### read-04 
+- https://cssgridgarden.com/
+
+- https://regexr.com/
+
+- https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+
+- https://regex101.com/
+
+- https://css-tricks.com/snippets/css/complete-guide-grid/
+
+- https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df
+
+#### read-05
+- https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
+
+- https://howtonode.org/deploy-blog-to-heroku

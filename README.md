@@ -9,8 +9,12 @@ place to keep reading notes for Code 301
 [read-03](reading-notes-301/read-03.md)
 [read-04](reading-notes-301/read-04.md)
 [read-05](reading-notes-301/read-05.md)
-[read-06](reading-notes-301/)
+[read-06](reading-notes-301/read-06.md)
 [read-07](reading-notes-301/)
+[read-08](reading-notes-301/)
+[read-09](reading-notes-301/)
+[read-10](reading-notes-301/)
+[read-11](reading-notes-301/)
 
 # links and resources 
 #### [HTML & CSS by Jon Duckett](http://www.htmlandcssbook.com/)
@@ -53,3 +57,7 @@ place to keep reading notes for Code 301
 - https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
 
 - https://howtonode.org/deploy-blog-to-heroku
+
+#### read-06
+
+- https://www.sitepoint.com/an-introduction-to-node-js

@@ -11,8 +11,8 @@ place to keep reading notes for Code 301
 [read-05](reading-notes-301/read-05.md)
 [read-06](reading-notes-301/read-06.md)
 [read-07](reading-notes-301/read-07.md)
-[read-08](reading-notes-301/)
-[read-09](reading-notes-301/)
+[read-08](reading-notes-301/read-08.md)
+[read-09](reading-notes-301/read-09.md)
 [read-10](reading-notes-301/)
 [read-11](reading-notes-301/)
 
@@ -61,3 +61,24 @@ place to keep reading notes for Code 301
 #### read-06
 
 - https://www.sitepoint.com/an-introduction-to-node-js
+
+#### read-07
+https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html
+
+https://gist.github.com/brookr/5977550
+
+https://visionmedia.github.io/superagent/
+
+#### read-08
+http://sqlbolt.com/
+
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+
+https://openlibra.com/en/book/a-primer-on-sql-3rd-edition
+
+http://www.cheat-sheets.org/sites/sql.su
+
+#### read-09
+https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa
+
+https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec

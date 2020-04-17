@@ -13,7 +13,7 @@ place to keep reading notes for Code 301
 [read-07](reading-notes-301/read-07.md)
 [read-08](reading-notes-301/read-08.md)
 [read-09](reading-notes-301/read-09.md)
-[read-10](reading-notes-301/)
+[read-10](reading-notes-301/read-10.md)
 [read-11](reading-notes-301/)
 
 # links and resources 
@@ -82,3 +82,12 @@ http://www.cheat-sheets.org/sites/sql.su
 https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa
 
 https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec
+
+#### read-10
+https://developer.mozilla.org/en-US/docs/Glossary/Call_stack
+
+https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4
+
+https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors

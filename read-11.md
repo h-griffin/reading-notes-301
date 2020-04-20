@@ -5,6 +5,9 @@ https://www.youtube.com/playlist?list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt
 
 Note that this series of videos should take approximately 20 minutes to watch
 
+i watched through the videos, he used for var people in persons to look for dave and jerry. he installed ejs just like cors and express, with npm. the insert value, like {{ }} in mustache, is 
+<%= value.value %>
+
 Additional Resources
 Reference: Google Books API Docs
 https://developers.google.com/books/docs/v1/using#WorkingVolumes

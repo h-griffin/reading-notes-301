@@ -14,7 +14,11 @@ place to keep reading notes for Code 301
 [read-08](reading-notes-301/read-08.md)
 [read-09](reading-notes-301/read-09.md)
 [read-10](reading-notes-301/read-10.md)
-[read-11](reading-notes-301/)
+[read-11](reading-notes-301/read-11.md)
+[read-12](reading-notes-301/)
+[read-13](reading-notes-301/)
+[read-14](reading-notes-301/)
+[read-15](reading-notes-301/)
 
 # links and resources 
 #### [HTML & CSS by Jon Duckett](http://www.htmlandcssbook.com/)
@@ -91,3 +95,14 @@ https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae
 https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
+
+#### read-11
+https://www.youtube.com/playlist?list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt
+
+https://developers.google.com/books/docs/v1/using#WorkingVolumes
+
+http://ejs.co/
+
+https://scotch.io/tutorials/use-ejs-to-template-your-node-application
+
+https://github.com/scotch-io/node-ejs

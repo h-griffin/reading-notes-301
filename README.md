@@ -15,7 +15,7 @@ place to keep reading notes for Code 301
 [read-09](reading-notes-301/read-09.md)
 [read-10](reading-notes-301/read-10.md)
 [read-11](reading-notes-301/read-11.md)
-[read-12](reading-notes-301/)
+[read-12](reading-notes-301/read-12.md)
 [read-13](reading-notes-301/)
 [read-14](reading-notes-301/)
 [read-15](reading-notes-301/)
